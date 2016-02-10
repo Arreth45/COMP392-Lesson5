@@ -1,0 +1,25 @@
+{
+  "name": "comp392-Lesson 5",
+  "authors": [
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+  ],
+  "description": "COMP392- Lesson 5",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/Arreth45",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
