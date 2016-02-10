@@ -72,7 +72,7 @@ function init() {
     cubeChild = new Mesh(cubeGeometry, cubeMaterial);
     cubeChild.castShadow = true;
     cubeChild.receiveShadow = true;
-    cubeChild.position.y = 1;
+    cubeChild.position.y = 1.5;
     cube.add(cubeChild);
     // Add an AmbientLight to the scene
     ambientLight = new AmbientLight(0x090909);
